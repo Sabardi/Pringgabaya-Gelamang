@@ -19,13 +19,13 @@ hamburger.classList.toggle('hamburger-active');
 navMenu.classList.toggle('hidden')
 });    
 
-// {
-    /* <script>
+{
+    <script>
         var swiper = new Swiper('.swiper-container', {
           navigation: {
             nextEl: '.swiper-button-next',
             prevEl: '.swiper-button-prev',
           },
         });
-    //   </script> */
-// }
+      </script>
+}
